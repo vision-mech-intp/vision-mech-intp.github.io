@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+### About This Webpage
 
-Maybe say a some things about yourself.
+This webpage was created by students from the Reliable AI Lab at the University of Maryland, advised by Professor Soheil Feizi. Contributors include [Keivan Rezaei](https://k1rezaei.github.io/), [Samyadeep Basu](https://samyadeepbasu.github.io/), [Sriram Balasubramanian](https://sriram.live/), and [Arman Zarei](https://armanzarei.github.io/).
 
-Or maybe what you plan to blog about.
+We showcase research on the interpretability of text-to-image and multi-modal generative models, with applications in compositionality, reducing spurious correlations, knowledge updating in MLLMs, and editing text-to-image models to prevent specific artistic or copyrighted content generation.
