@@ -43,3 +43,9 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+p.rss-subscribe, ul.social-media-list {
+  display: none;
+}
+
+
